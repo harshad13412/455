@@ -1,0 +1,17 @@
+h2 {color: red }
+* {background-color: rgb(13, 240, 153);
+
+}
+.header {
+background-color: rgb(18, 219, 219);
+display: flex;
+justify-content: space-around;
+}
+.games {
+display:flex;
+justify-content: space-between;
+}
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
